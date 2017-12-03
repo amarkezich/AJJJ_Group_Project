@@ -1,0 +1,91 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+POPGROUP.id,Id
+POPGROUP.display-label,Population Group
+EST_VC11,Estimate; SEX AND AGE - Total population
+MOE_VC11,Margin of Error; SEX AND AGE - Total population
+EST_VC12,Estimate; SEX AND AGE - Total population - Male
+MOE_VC12,Margin of Error; SEX AND AGE - Total population - Male
+EST_VC13,Estimate; SEX AND AGE - Total population - Female
+MOE_VC13,Margin of Error; SEX AND AGE - Total population - Female
+EST_VC16,Estimate; SEX AND AGE - Under 5 years
+MOE_VC16,Margin of Error; SEX AND AGE - Under 5 years
+EST_VC17,Estimate; SEX AND AGE - 5 to 17 years
+MOE_VC17,Margin of Error; SEX AND AGE - 5 to 17 years
+EST_VC18,Estimate; SEX AND AGE - 18 to 24 years
+MOE_VC18,Margin of Error; SEX AND AGE - 18 to 24 years
+EST_VC19,Estimate; SEX AND AGE - 25 to 34 years
+MOE_VC19,Margin of Error; SEX AND AGE - 25 to 34 years
+EST_VC20,Estimate; SEX AND AGE - 35 to 44 years
+MOE_VC20,Margin of Error; SEX AND AGE - 35 to 44 years
+EST_VC21,Estimate; SEX AND AGE - 45 to 54 years
+MOE_VC21,Margin of Error; SEX AND AGE - 45 to 54 years
+EST_VC22,Estimate; SEX AND AGE - 55 to 64 years
+MOE_VC22,Margin of Error; SEX AND AGE - 55 to 64 years
+EST_VC23,Estimate; SEX AND AGE - 65 to 74 years
+MOE_VC23,Margin of Error; SEX AND AGE - 65 to 74 years
+EST_VC24,Estimate; SEX AND AGE - 75 years and over
+MOE_VC24,Margin of Error; SEX AND AGE - 75 years and over
+EST_VC27,Estimate; SEX AND AGE - Median age (years)
+MOE_VC27,Margin of Error; SEX AND AGE - Median age (years)
+EST_VC36,Estimate; SEX AND AGE - Under 18 years
+MOE_VC36,Margin of Error; SEX AND AGE - Under 18 years
+EST_VC37,Estimate; SEX AND AGE - Under 18 years - Male
+MOE_VC37,Margin of Error; SEX AND AGE - Under 18 years - Male
+EST_VC38,Estimate; SEX AND AGE - Under 18 years - Female
+MOE_VC38,Margin of Error; SEX AND AGE - Under 18 years - Female
+EST_VC41,Estimate; SEX AND AGE - 18 years and over
+MOE_VC41,Margin of Error; SEX AND AGE - 18 years and over
+EST_VC42,Estimate; SEX AND AGE - 18 years and over - Male
+MOE_VC42,Margin of Error; SEX AND AGE - 18 years and over - Male
+EST_VC43,Estimate; SEX AND AGE - 18 years and over - Female
+MOE_VC43,Margin of Error; SEX AND AGE - 18 years and over - Female
+EST_VC46,Estimate; SEX AND AGE - 18 to 34 years
+MOE_VC46,Margin of Error; SEX AND AGE - 18 to 34 years
+EST_VC47,Estimate; SEX AND AGE - 18 to 34 years - Male
+MOE_VC47,Margin of Error; SEX AND AGE - 18 to 34 years - Male
+EST_VC48,Estimate; SEX AND AGE - 18 to 34 years - Female
+MOE_VC48,Margin of Error; SEX AND AGE - 18 to 34 years - Female
+EST_VC51,Estimate; SEX AND AGE - 35 to 64 years
+MOE_VC51,Margin of Error; SEX AND AGE - 35 to 64 years
+EST_VC52,Estimate; SEX AND AGE - 35 to 64 years - Male
+MOE_VC52,Margin of Error; SEX AND AGE - 35 to 64 years - Male
+EST_VC53,Estimate; SEX AND AGE - 35 to 64 years - Female
+MOE_VC53,Margin of Error; SEX AND AGE - 35 to 64 years - Female
+EST_VC56,Estimate; SEX AND AGE - 65 years and over
+MOE_VC56,Margin of Error; SEX AND AGE - 65 years and over
+EST_VC57,Estimate; SEX AND AGE - 65 years and over - Male
+MOE_VC57,Margin of Error; SEX AND AGE - 65 years and over - Male
+EST_VC58,Estimate; SEX AND AGE - 65 years and over - Female
+MOE_VC58,Margin of Error; SEX AND AGE - 65 years and over - Female
+EST_VC134,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+MOE_VC134,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+EST_VC135,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school diploma
+MOE_VC135,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school diploma
+EST_VC136,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+MOE_VC136,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+EST_VC137,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+MOE_VC137,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+EST_VC138,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+MOE_VC138,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+EST_VC139,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+MOE_VC139,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+EST_VC142,Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher
+MOE_VC142,Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher
+EST_VC143,"Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher - Male, high school graduate or higher"
+MOE_VC143,"Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher - Male, high school graduate or higher"
+EST_VC144,"Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher - Female, high school graduate or higher"
+MOE_VC144,"Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher - Female, high school graduate or higher"
+EST_VC145,Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+MOE_VC145,Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+EST_VC146,"Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Male, bachelor's degree or higher"
+MOE_VC146,"Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Male, bachelor's degree or higher"
+EST_VC147,"Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Female, bachelor's degree or higher"
+MOE_VC147,"Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Female, bachelor's degree or higher"
+EST_VC151,Estimate; FERTILITY - Women 15 to 50 years
+MOE_VC151,Margin of Error; FERTILITY - Women 15 to 50 years
+EST_VC318,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Households
+MOE_VC318,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Households
+EST_VC319,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Households - Median household income (dollars)
+MOE_VC319,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Households - Median household income (dollars)
