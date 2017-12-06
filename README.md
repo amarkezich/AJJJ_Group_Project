@@ -1,4 +1,7 @@
 # AJJJ_Group_Project
+
+## Proejct Link: https://smilejin92.shinyapps.io/AJJJ_Group_Project/
+
 Our team has designed four analytical maps that show the change of birthrate overtime within the last five years from 2012 to 2016.
 The purpose of this project is to give the scholarly audiences perception of how certain race populations
 have a higher or lower probability of higher or lower birthrate while factoring in education, income and geographic
