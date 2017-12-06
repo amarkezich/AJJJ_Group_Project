@@ -1,0 +1,12 @@
+name: BirthrateProject
+title: BirthrateProject
+username:
+account: jskazn1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 244411
+bundleId: 1115788
+url: https://jskazn1.shinyapps.io/BirthrateProject/
+when: 1512451920.03301
+asMultiple: FALSE
+asStatic: FALSE
